@@ -1,0 +1,38 @@
+
+body{
+    font-family: "Orbitron" , sans-serif;
+}
+
+.header{
+    width: 1000px;
+    height: 600px;
+    border: 2px solid black;
+    margin: 50px 600px;
+    border-radius: 50px;
+    background-color: rgba(73, 18, 223, 0.979);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(206, 233, 231);
+}
+
+.clock{
+    font-size: 140px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
